@@ -7,8 +7,8 @@ import lmfit
 path_to_data = 'C:\\Users\\gusarov\\CPB_USC_project\\data\\'
 path_to_arrays = 'C:\\Users\\gusarov\\CPB_USC_project\\data_arrays\\'
 
-# FileName = '2024_08_21_CPB_c3r6_RO1_Coil_8.hdf5'
-# DataType = 'Coil_VNA'
+FileName = '2024_08_21_CPB_c3r6_RO1_Coil_8.hdf5'
+DataType = 'Coil_VNA'
 
 # FileName = '2024_08_21_CPB_c3r6_RO1_Power_4.hdf5' # -56 uA, single resonance
 # DataType = 'VNA_Power'
@@ -17,8 +17,8 @@ path_to_arrays = 'C:\\Users\\gusarov\\CPB_USC_project\\data_arrays\\'
 # DataType = 'VNA_Power'
 
 
-FileName = "2024_08_21_CPB_c3r6_RO1_Power_11.hdf5" # -43 uA, single resonance
-DataType = 'VNA_Power'
+# FileName = "2024_08_21_CPB_c3r6_RO1_Power_11.hdf5" # -43 uA, single resonance
+# DataType = 'VNA_Power'
 
 ExpName = FileName[:-5]
 
